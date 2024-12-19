@@ -25,6 +25,7 @@ This is the official PyTorch implementation of the WSDM 2025 paper "SCONE: A Nov
 <p align="center">
 <img src="img/method_1.png" width="100%">
 </p>
+
 SCONE is a novel framework that:
 - Generates dynamic contrastive views via stochastic sampling
 - Creates diverse hard negative samples through stochastic positive injection
