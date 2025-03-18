@@ -73,10 +73,12 @@ python main.py --dataset_name douban --model SCONE --output_dir ./SCONE_exp/
 ## Citation
 If the code and paper are helpful for your work, please cite our paper:
 ```bibtex
-@article{lee2024scone,
-  title={Stochastic Sampling for Contrastive Views and Hard Negative Samples in Graph-based Collaborative Filtering},
-  author={Lee, Chaejeong and Choi, Jeongwhan and Wi, Hyowon and Cho, Sung-Bae and Park, Noseong},
-  journal={arXiv preprint arXiv:2405.00287},
-  year={2024}
+@inproceedings{lee2024scone,
+  author = {Lee, Chaejeong and Choi, Jeongwhan and Wi, Hyowon and Cho, Sung-Bae and Park, Noseong},
+  title = {SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation},
+  year = {2025},
+  booktitle = {Proceedings of the Eighteenth ACM International Conference on Web Search and Data Mining},
+  pages = {419–428},
+  numpages = {10}
 }
 ```
