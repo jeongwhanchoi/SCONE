@@ -23,7 +23,7 @@ This is the official PyTorch implementation of the WSDM 2025 paper "SCONE: A Nov
 ## TL;DR
 
 <p align="center">
-<img src="img/method_1.png" width="100%">
+<img src="img/intro_method.png" width="100%">
 </p>
 
 SCONE is a novel framework that:
