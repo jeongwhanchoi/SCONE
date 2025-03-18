@@ -82,3 +82,7 @@ If the code and paper are helpful for your work, please cite our paper:
   numpages = {10}
 }
 ```
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=jeongwhanchoi/SCONE&type=Date)](https://www.star-history.com/#jeongwhanchoi/SCONE&Date)
