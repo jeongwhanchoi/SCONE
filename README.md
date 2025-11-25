@@ -2,7 +2,7 @@
 <h1>SCONE: A Novel Stochastic Sampling to Generate Contrastive Views and Hard Negative Samples for Recommendation</h1>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/jeongwhanchoi/SCONE) ![Twitter Follow](https://img.shields.io/twitter/follow/jeongwhan_choi?style=social)
- [![arXiv](https://img.shields.io/badge/arXiv-2405.00287-b31b1b.svg)](https://arxiv.org/abs/2405.00287) [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongwhanchoi%2FSCONE&count_bg=%230D6CFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ [![arXiv](https://img.shields.io/badge/arXiv-2405.00287-b31b1b.svg)](https://arxiv.org/abs/2405.00287)
 
 <div>
     <a href="https://scholar.google.com/citations?user=T1UHgUEAAAAJ&hl=en" target="_blank"><b>Chaejeong Lee</b></a><sup>1</sup>,
