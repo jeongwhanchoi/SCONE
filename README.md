@@ -22,7 +22,7 @@ This is the official PyTorch implementation of the WSDM 2025 paper "SCONE: A Nov
 
 
 ## 📢 News!
-- **Mar 18, 2025**: Our official SCONE code is now open-sourceon GitHub!
+- **Mar 18, 2025**: Our official SCONE code is now open-source on GitHub!
 - **Mar 12, 2025**: We presented [our work](https://neurips.cc/virtual/2024/poster/94193) at WSDM 2025! 🚀
     - 📄 Read [the paper](https://dl.acm.org/doi/10.1145/3701551.3703522)
     - 🖼️ See [our poster](https://www.dropbox.com/scl/fi/dwmoxxovoekheurgj9r64/WSDM-SCONE_Poster.pdf?rlkey=luw8e5nii7zeti4al30br4z71&dl=0)
